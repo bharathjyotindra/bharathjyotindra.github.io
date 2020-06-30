@@ -1,1 +1,6 @@
+---
+# Add a 404 page
+permalink: /404.md
+---
+# Set the theme of the blog
 theme: jekyll-theme-midnight
