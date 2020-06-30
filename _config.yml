@@ -9,7 +9,5 @@ theme: jekyll-theme-midnight
 defaults:
     scope:
       path: ""
-      type: "pages"
     values:
-      layout: "my-site"
       author: "Bharath"
