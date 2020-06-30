@@ -3,7 +3,7 @@
 # The triple dash is call Front matter
 permalink: /404.md
 title: My Life Experiences
----
 # Set the theme of the blog
 theme: jekyll-theme-midnight
+---
 author: "Bharath"
