@@ -1,6 +1,15 @@
 ---
 # Add a 404 page
+# The triple dash is call Front matter
 permalink: /404.md
+title: My Life Experiences
 ---
 # Set the theme of the blog
 theme: jekyll-theme-midnight
+defaults:
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+      author: "Bharath"
